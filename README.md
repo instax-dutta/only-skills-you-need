@@ -32,7 +32,7 @@ npx skills add https://github.com/KailasMahavarkar/agentic-skills --skill lenis-
 ### Research / live documentation
 
 ```bash
-npx skills add agent-reach
+npx skills add https://github.com/Panniantong/Agent-Reach
 ```
 
 ### SEO
