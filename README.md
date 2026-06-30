@@ -14,7 +14,7 @@ A curated instruction set for agentic coding tools. Zero-config across opencode,
 ### Core workflow
 
 ```bash
-npx skills add superpowers
+npx skills add obra/superpowers
 ```
 
 Provides: brainstorming, TDD, systematic debugging, verification-before-completion, parallel agent dispatch, plan authoring and execution.
@@ -23,10 +23,10 @@ Provides: brainstorming, TDD, systematic debugging, verification-before-completi
 
 ```bash
 npx skills add https://github.com/anthropics/skills --skill frontend-design
-npx skills add https://github.com/anthropics/skills --skill react-doctor
+npx react-doctor@latest install
 npx skills add https://github.com/vercel/skills --skill vercel-react-best-practices
-npx skills add https://github.com/anthropics/skills --skill modal-drawer-system
-npx skills add https://github.com/obra/skills --skill implement_lenis_scroll
+npx skills add https://github.com/patricio0312rev/skills --skill modal-drawer-system
+npx skills add https://github.com/KailasMahavarkar/agentic-skills --skill lenis-react
 ```
 
 ### Research / live documentation
@@ -38,9 +38,9 @@ npx skills add agent-reach
 ### SEO
 
 ```bash
-npx skills add https://github.com/anthropics/skills --skill programmatic-seo
-npx skills add https://github.com/anthropics/skills --skill seo-audit
-npx skills add https://github.com/anthropics/skills --skill ai-seo
+npx skills add https://github.com/coreyhaines31/marketingskills --skill programmatic-seo
+npx skills add https://github.com/coreyhaines31/marketingskills --skill seo-audit
+npx skills add https://github.com/coreyhaines31/marketingskills --skill ai-seo
 ```
 
 ### Structured execution
