@@ -59,6 +59,14 @@ Based on Google's published engineering practices.
 npx skills add instax-dutta/google-code-review
 ```
 
+### LLM fine-tuning
+
+From a controlled 2x T4 Soup-vs-Unsloth benchmark: probe the GPU, pick the engine, smoke test, verify with a neutral evaluator.
+
+```bash
+npx skills add instax-dutta/finetune-llm
+```
+
 ---
 
 ## Design principles
